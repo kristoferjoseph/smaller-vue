@@ -1,2 +1,0 @@
-# smaller-vue
-Begin app
